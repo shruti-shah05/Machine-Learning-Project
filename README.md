@@ -1,0 +1,2 @@
+# Machine-Learning-Project
+For this project, I wanted to build something that would be meaningful for people in their everyday lives. This led me to build a Content-based filtering recommender, built using the Restaurant Profile data and comparing those profiles to the User Preferences. So, the idea was to set up a method for a user to enter some preferences such as if user prefer a restaurant where smoking is permitted, or budget is low, or their preferred cuisine and based on that they'll get a recommendations for restaurants that are closely matched to their preference.
